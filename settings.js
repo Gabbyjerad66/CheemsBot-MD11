@@ -14,24 +14,24 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.ytname = "YT: Gabby" //ur yt chanel name
+global.socialm = "GitHub: Gabby6646 //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V11' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
-global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
+global.botname = 'CGabby MD V11' //ur bot name
+global.ownernumber = '254112842772' //ur owner number
+global.ownername = 'Gabby' //ur owner name
+global.websitex = "https://youtu.be/mu5m6aBP5k"
+global.wagc = "https://whatsapp.com/channel/29VaG9VfPKWEKk1rxTQD20"
+global.themeemoji = '💀'
+global.wm = "Gabby."
+global.botscript = 'https:heloo mofo' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "Gabby\n\n+254112842772"
+global.creator = "254112842772@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.premium = ["254112842772"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -40,8 +40,8 @@ global.typereply = 'v2' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
-global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
+global.anticall = true //bot blocks user when called
+global.autoswview = true //auto status/story view
 global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
 //msg
